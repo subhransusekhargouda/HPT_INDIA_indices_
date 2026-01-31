@@ -44,7 +44,7 @@ File naming convention-Predicted_Year_<HPTindex>_Day_DOY.nc.
 
 Example:
 Predicted_2003_ATin_Day_001.nc
-The complete daily dataset (all indices, all years) is approximately 6 TB and cannot be hosted on GitHub.
+The complete daily dataset (all indices, all years) is approximately 7 TB and cannot be hosted on GitHub.
 
 **Full Daily Dataset Access**
 The complete daily HPT datasets at 1 km resolution will be made publicly available through the ISRO–NICES data portal prior to publication.
