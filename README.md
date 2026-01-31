@@ -50,11 +50,7 @@ The complete daily HPT datasets at 1 km resolution will be made publicly availab
 Until then, the full daily products are available from the authors upon reasonable request.
 
 **Methodology Summary**
-HPT indices are initially derived from ERA5 meteorological variables.
-Downscaling to 1 km resolution is performed using a Light Gradient Boosting Machine (LightGBM) framework.
-Key covariates include land surface temperature, precipitable water vapour, elevation, slope, aspect, and population density.
-Model performance is evaluated using R², RMSE, and MAE, showing strong prediction accuracy across all indices.
-Detailed methodological descriptions are provided in the associated manuscript.
+HPT indices are first computed from ERA5 reanalysis meteorological variables at coarse spatial resolution. These indices are subsequently downscaled to 1 km spatial resolution using a Light Gradient Boosting Machine (LightGBM) framework. The downscaling incorporates high-resolution covariates that capture surface, atmospheric, and topographic controls on near-surface thermal conditions, including land surface temperature, precipitable water vapour, elevation, slope, aspect, and population density. Model performance is evaluated using standard statistical metrics, including the coefficient of determination (R²), root-mean-square error (RMSE), and mean absolute error (MAE). A detailed description of the methodology and model configuration is provided in the associated manuscript.
 
 **Contact**
 For questions, feedback, or access to the full daily datasets, please contact:
