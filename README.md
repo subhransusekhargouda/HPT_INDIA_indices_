@@ -35,7 +35,7 @@ Examples:
 ATin_monthly_mean_2003_2020.nc
 ET_monthly_mean_2003_2020.nc
 SWBGT_monthly_mean_2003_2020.nc
-Each file contains gridded monthly mean values at 1 km resolution covering the entire study region.The complete monthly archive occupies approximately 24 GB.
+Each file contains gridded monthly mean values at 1 km resolution covering the entire study region.The complete monthly archives occupies approximately 24 GB.
 
 3. Sample Daily Predicted Files
 Due to the very large data volume of the daily products, only a limited set of representative daily files is provided here for transparency and reproducibility.
