@@ -29,16 +29,18 @@ WCT – Wind Chill Temperature
 **Repository Contents**.
 1. Monthly Mean HPT Datasets (Complete Archive)
 This repository hosts monthly mean datasets for all twelve HPT indices, aggregated from daily predictions for the period 2003–2020.
-File naming convention- <HPTindex>_monthly_mean_2003_2020.nc
+File naming convention- <HPTindex>_monthly_mean_2003_2020.nc.
+
 Examples:
 ATin_monthly_mean_2003_2020.nc
 ET_monthly_mean_2003_2020.nc
 SWBGT_monthly_mean_2003_2020.nc
 Each file contains gridded monthly mean values at 1 km resolution covering the entire study region.The complete monthly archive occupies approximately 24 GB.
 
-2. Sample Daily Predicted Files
+3. Sample Daily Predicted Files
 Due to the very large data volume of the daily products, only a limited set of representative daily files is provided here for transparency and reproducibility.
-File naming convention-Predicted_Year_<HPTindex>_Day_DOY.nc
+File naming convention-Predicted_Year_<HPTindex>_Day_DOY.nc.
+
 Example:
 Predicted_2003_ATin_Day_001.nc
 The complete daily dataset (all indices, all years) is approximately 6 TB and cannot be hosted on GitHub.
