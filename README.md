@@ -26,7 +26,7 @@ SWBGT – Simplified Wet-Bulb Globe Temperature
 WBT – Wet-Bulb Temperature
 WCT – Wind Chill Temperature
 
-**Repository Contents**
+**Repository Contents**.
 1. Monthly Mean HPT Datasets (Complete Archive)
 This repository hosts monthly mean datasets for all twelve HPT indices, aggregated from daily predictions for the period 2003–2020.
 File naming convention- <HPTindex>_monthly_mean_2003_2020.nc
