@@ -14,17 +14,18 @@ Coordinate reference system: WGS 1984 Geographic (EPSG:4326)
 Data format: NetCDF (.nc)
 
 **The dataset contains the following 12 Human Perceived Temperature indices:**
-ATout – Outdoor Apparent Temperature (shaded)
-DI – Discomfort Index
-ET – Effective Temperature
-HI – Heat Index
-HMI – Humidex
-MDI – Modified Discomfort Index
-NET – Net Effective Temperature
-SAT – Surface Air Temperature (2 m)
-SWBGT – Simplified Wet-Bulb Globe Temperature
-WBT – Wet-Bulb Temperature
-WCT – Wind Chill Temperature
+ATin - Indoor Apparent Temperature,
+ATout – Outdoor Apparent Temperature (shaded),
+DI – Discomfort Index,
+ET – Effective Temperature,
+HI – Heat Index,
+HMI – Humidex,
+MDI – Modified Discomfort Index,
+NET – Net Effective Temperature,
+SAT – Surface Air Temperature (2 m),
+SWBGT – Simplified Wet-Bulb Globe Temperature,
+WBT – Wet-Bulb Temperature,
+WCT – Wind Chill Temperature.
 
 **Repository Contents**.
 1. Monthly Mean HPT Datasets (Complete Archive)
