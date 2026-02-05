@@ -58,6 +58,4 @@ For questions, feedback, or access to the full daily datasets, please contact:
 Dr. Saket Dubey
 Email: saketdubey@iitbbs.ac.in
 
-**License**
-This dataset is provided for research and non-commercial use.
-For other usage or redistribution, please contact the authors.
+
